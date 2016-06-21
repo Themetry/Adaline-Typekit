@@ -1,0 +1,21 @@
+/*
+ Theme Name:   Adaline Typekit
+ Theme URI:    https://themetry.com/adaline-logo-letter/
+ Description:  This is a child theme of Themetry's Adaline theme which demonstrates how to supplement fonts with Typekit
+ Author:       Themetry
+ Author URI:   https://themetry.com
+ Template:     adaline
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Text Domain:  adaline-typekit
+*/
+
+/*--------------------------------------------------------------
+# Header Fonts
+--------------------------------------------------------------*/
+.site-title,
+.site-description {
+	font-family: "acumin-pro", sans-serif;
+	/* Add desired font weights and styles as needed */
+}
